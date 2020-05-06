@@ -10,7 +10,7 @@ body {
     margin: 0;
    
 }
-h1:nth-child(odd){
+h1{
     font-size: 15pt;
     color: #20bcd6;
     text-align: center;
